@@ -1,0 +1,3 @@
+A simple application to view photos of Storms for iOS
+
+Credit to Paul Hudson from Hacking with Swift for the tutorial and source files
